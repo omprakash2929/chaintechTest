@@ -1,3 +1,7 @@
+## Demo
+
+https://66aa31cb7cce8a2c33b97c83--zesty-hummingbird-0de13f.netlify.app/
+
 # React Authentication and Profile Management App
 
 This project is a simple React application that provides user authentication (signup and login) and profile management functionality. It demonstrates local storage for persisting user data and React Router for navigation between different pages. Additionally, the app uses React Toastify for displaying notifications.
